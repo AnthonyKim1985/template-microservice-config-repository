@@ -1,0 +1,1 @@
+# template-microservice-config-repository
